@@ -1,0 +1,9 @@
+{
+  "name": "mission.proxy",
+  "dependencies": {
+    "http-proxy": "registry:npm/http-proxy#1.12.0+20160315230223"
+  },
+  "globalDependencies": {
+    "node": "registry:dt/node#6.0.0+20160621231320"
+  }
+}
